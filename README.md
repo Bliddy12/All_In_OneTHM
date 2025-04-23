@@ -30,7 +30,7 @@ Install the script
 git clone https://github.com/Bliddy12/All_In_OneTHM
 cd All_In_OneTHM
 ```
-Run the python script
+Run the python script and enter inputs
 ```
 python All_In_One_Automation.py
 ```
