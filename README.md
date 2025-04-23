@@ -25,6 +25,11 @@ sudo apt install nmap
 sudo gem install wpscan
 ```
 
+Install the script
+```
+git clone https://github.com/Bliddy12/All_In_OneTHM
+cd All_In_OneTHM
+```
 Run the python script
 ```
 python All_In_One_Automation.py
